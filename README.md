@@ -3,12 +3,12 @@
 My skript for automating the installation and configuration of a linux system after a fresh install.
 
 
-<img src="https://github.com/ndz-v/dotfiles/blob/master/media/desktop.png" width="300" height="200">
+<img src="https://github.com/ndz-v/dotfiles/blob/wsl/media/desktop.png" width="300" height="200">
 
 ## Installation
 
 ```shell
-sh -c "`wget -O - --no-check-certificate https://raw.githubusercontent.com/ndz-v/dotfiles/master/remote-setup.sh`"
+sh -c "`wget -O - --no-check-certificate https://raw.githubusercontent.com/ndz-v/dotfiles/wsl/remote-setup.sh`"
 ```
 
 ### Explanation
